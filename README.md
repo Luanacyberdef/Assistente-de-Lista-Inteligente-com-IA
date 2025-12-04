@@ -23,18 +23,19 @@
 <br>
 
 # 📌 Conceito do App: <br>
-- O aplicativo foi criado para resolver um problema real: controlar gastos de supermercado com rapidez e precisão. Ele registra produtos e preços e calcula automaticamente o total do carrinho, podendo até receber itens por voz.
+- O aplicativo foi criado para resolver um problema real: Controlar gastos de supermercado com rapidez e precisão. Ele registra produtos e preços e calcula automaticamente o total do carrinho, podendo até registrar itens por voz.
 
 <br>
 
 # 🛒 Funcionalidades Implementadas:
-- Adicionar produtos manualmente
-- Inclusão de itens por comando de voz
-- Cálculo automático do valor total
-- Interface simples e rápida para uso no mercado
-- Campo para leitura de código de barras (planejado, mas desativado nesta versão)
+- Adicionar produtos manualmente;
+- Inclusão de itens por comando de voz;
+- Cálculo automático do valor total;
+- Interface simples e rápida para uso no mercado;
+- Campo para leitura de código de barras (planejado, mas desativado nesta versão).
 
 **📌 Cadastro simples: Basta cadastrar um e-mail e senha (o e-mail não precisa existir):**
+- O cadastro é feito somente para que seus produtos registrados não se percam caso você atualize a página sem querer.
 - Exemplo: <br>
   <img width="513" height="596" alt="image" src="https://github.com/user-attachments/assets/19356302-f973-486e-80af-2a0eba2bb3c3" />
 
