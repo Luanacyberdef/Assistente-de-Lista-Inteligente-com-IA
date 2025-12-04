@@ -42,7 +42,7 @@
 🔗 Teste temporário: https://canvas-cart-sync.lovable.app
 
 **Tela do app no Lovable:**
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60426227-e2e1-4695-aa6a-69d0e4319131" />
+<img width="1364" height="659" alt="image" src="https://github.com/user-attachments/assets/bfdd85bb-991d-4ec2-9ef3-4dab6ef8678a" />
 
 > Construído a partir de uma situação real de organização financeira familiar.
 
