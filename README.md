@@ -15,40 +15,41 @@
 
 <br>
 
-<!------- Conteúdo -->
+## 📋 Metodologia e Criação
+Este projeto foi desenvolvido como requisito de conclusão do **bootcamp [Dio](https://web.dio.me/play?section_type=bootcamp)**, demonstrando a aplicação prática de conceitos de desenvolvimento e estratégia de produto.
 
-# 📋 Sobre o Desafio:
-- Projeto desenvolvido para o bootcamp [Dio](https://web.dio.me/play?section_type=bootcamp), utilizando criação via IA dentro da plataforma [Lovable](https://lovable.dev/). A solução foi majoritariamente projetada com o `Google Gemini`, responsável pela estrutura e refinamento do app.
+A solução foi concebida através de uma **abordagem moderna de desenvolvimento ágil**, utilizando:
+* **Google Gemini:** Como parceiro de design e arquitetura, responsável pela estruturação, lógica e refinamento do Product Requirements Document (PRD).
+* **Plataforma [Lovable](https://lovable.dev/):** Para a criação e prototipagem *low-code* da aplicação web.
 
-<br>
+> O objetivo foi simular um fluxo de trabalho profissional, onde a IA é utilizada para acelerar a fase de concepção e prototipagem de um MVP (Produto Mínimo Viável).
 
-# 📌 Conceito do App: <br>
-- O aplicativo foi criado para resolver um problema real: Controlar gastos de supermercado com rapidez e precisão. Ele registra produtos e preços e calcula automaticamente o total do carrinho, podendo até registrar itens por voz.
+## 📌 Conceito do App
+O app foi concebido para mitigar o problema do **descontrole financeiro** durante as compras, um desafio real em orçamentos familiares.
 
-<br>
+O aplicativo atua como um **Produto Mínimo Viável (MVP)**, focado em três pilares para otimizar a experiência de compra:
+1.  **Cálculo em Tempo Real:** Registro instantâneo de produtos e preços, garantindo que o usuário saiba o valor **total do carrinho** a cada adição;
+2.  **Usabilidade:** O recurso de **inclusão por comando de voz** é o diferencial, proporcionando rapidez e praticidade, liberando as mãos do usuário;
+3.  **Precisão:** Foco na **rapidez e precisão** do registro, permitindo que o usuário se mantenha estritamente dentro do limite orçamentário definido.
+4.  **Persistência Local:** Utilização do **Local Storage** do navegador para manter a lista salva, mesmo após a atualização da página..
 
-# 🛒 Funcionalidades Implementadas:
-- Adicionar produtos manualmente;
-- Inclusão de itens por comando de voz;
-- Cálculo automático do valor total;
-- Interface simples e rápida para uso no mercado;
-- Campo para leitura de código de barras (planejado, mas desativado nesta versão).
+## 🔗 Evidências Visuais
+O aplicativo foi construído a partir de uma situação real de organização financeira familiar.
 
-**📌 Cadastro simples: Basta cadastrar um e-mail e senha (o e-mail não precisa existir):**
-- O cadastro existe apenas para manter seus itens salvos mesmo se a página for atualizada.
-- Exemplo: <br>
-  <img width="513" height="596" alt="image" src="https://github.com/user-attachments/assets/19356302-f973-486e-80af-2a0eba2bb3c3" />
+   - **Link do App para Teste (Acesso Temporário):** https://canvas-cart-sync.lovable.app
 
-🔗 Teste temporário: https://canvas-cart-sync.lovable.app
+- Demonstrações da Interface
+   - **Tela de Login:**
+<img width="324" height="552" alt="image" src="https://github.com/user-attachments/assets/dfab7a67-2dea-4e62-859e-9c8f110d9593" />
 
-**Tela do app no Lovable:**
-<img width="1364" height="659" alt="image" src="https://github.com/user-attachments/assets/bfdd85bb-991d-4ec2-9ef3-4dab6ef8678a" />
+  - **Tela Principal:**
+<img width="617" height="594" alt="image" src="https://github.com/user-attachments/assets/b397a178-134f-4b51-a8d2-0cbde0386eda" />
 
-> Construído a partir de uma situação real de organização financeira familiar.
+  - **Tela dentro do Lovable:**
+<img width="1357" height="613" alt="image" src="https://github.com/user-attachments/assets/03a55d75-59d5-40ca-83b5-23217db65843" />
 
-<br>
 
-# 🧠 Prompt Resumido (PRD) Utilizado com IA:
+## 🧠 Prompt Resumido (PRD) Utilizado com IA
 ``` bash
 Crie o conceito de um aplicativo para listar produtos e valor no supermercado. O app deve ajudar usuários a organizar listas de compras no supermercado. Ele precisa ter:
 
@@ -65,12 +66,14 @@ Crie o conceito de um aplicativo para listar produtos e valor no supermercado. O
 
 <br>
 
-# 💭 Reflexão Sobre o Desafio:
-Trabalhar com a IA para desenvolver o app mostrou que a utilidade real importa mais do que complexidade técnica. Aprender IA na prática não significa apenas automatizar tarefas, mas identificar problemas reais e resolvê-los de forma inteligente. Desenvolver esse projeto reforçou que tecnologia efetiva nasce de necessidades humanas, não de funcionalidades aleatórias.
+# 💭 Reflexão Sobre o Desafio
+O projeto reforçou que a principal função do desenvolvedor, ao usar a IA, é atuar como **Arquiteto Crítico**, e não apenas como executor.
 
-<br>
+* **Prioridade:** O aprendizado central foi entender o **Custo de Oportunidade**. Foi crucial refinar o *prompt* para usar o **Local Storage** (solução simples para MVP) e descartar a implementação imediata de um *backend* completo, focando o esforço no diferencial (Comando de Voz).
+* **Decisão de Design:** A IA precisou ser desafiada para justificar cada componente. A inclusão da interface de Cadastro/Login como um **Wireframe** demonstrou que a arquitetura deve ser pensada para o futuro, mas a implementação deve ser estritamente focada no valor imediato.
+* **Conclusão:** Tecnologia efetiva é aquela que resolve uma necessidade humana real com a solução mais simples possível. A IA é uma poderosa ferramenta de aceleração, mas a **estratégia de produto** e a **visão técnica** continuam sendo responsabilidade do profissional.
 
-# 📌 Política de Uso:
+## 📌 Política de Uso:
 Este aplicativo foi desenvolvido exclusivamente para fins educacionais como parte de um desafio prático. Ele não possui finalidade comercial, pode ser alterado ou removido a qualquer momento e não deve ser utilizado para armazenamento de dados reais ou sensíveis.
 
 Antes de utilizar, leia a Política de Uso completa: 👉 [Clique aqui para acessar a Política de Uso](./Security.md)
