@@ -74,13 +74,16 @@ O projeto reforçou que a principal função do desenvolvedor, ao usar a IA, é 
 * **Conclusão:** Tecnologia efetiva é aquela que resolve uma necessidade humana real com a solução mais simples possível. A IA é uma poderosa ferramenta de aceleração, mas a **estratégia de produto** e a **visão técnica** continuam sendo responsabilidade do profissional.
 
 ## 📌 Política de Uso:
+> [!IMPORTANT]
 Este aplicativo foi desenvolvido exclusivamente para fins educacionais como parte de um desafio prático. Ele não possui finalidade comercial, pode ser alterado ou removido a qualquer momento e não deve ser utilizado para armazenamento de dados reais ou sensíveis.
 
 Antes de utilizar, leia a Política de Uso completa: 👉 [Clique aqui para acessar a Política de Uso](./Security.md)
 
-<br>
+## 🤖 Uso de IA:
+> [!NOTE]
+> Parte deste conteúdo foi elaborada com apoio de ferramentas de IA, utilizadas como auxílio na organização e redação do texto, com revisão e validação integral pelo autor.
 
-<h2> 🔗 Compartilhe com a comunidade 🧡 </h2>
+## 🔗 Compartilhe com a comunidade 🧡
 
 Por favor, se esse conteúdo te ajudou, não esqueça de compartilhar 😁
 
