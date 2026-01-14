@@ -36,7 +36,7 @@ O aplicativo atua como um **Produto Mínimo Viável (MVP)**, focado em três pil
 ## 🔗 Evidências Visuais
 O aplicativo foi construído a partir de uma situação real de organização financeira familiar.
 
-   - **Link do App para Teste (Acesso Temporário):** https://canvas-cart-sync.lovable.app
+   - **Assista ao video** [Clicando aqui](https://drive.google.com/file/d/16c3nt76Ma_P_bjZABinKBtPxbr91XiKZ/view?usp=drive_link)
 
 - Demonstrações da Interface
    - **Tela de Login:**
